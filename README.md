@@ -1,0 +1,2 @@
+# Explainable-Multi-Source-Urban-Noise-Attribution-Using-Multi-Modal-Transformer-Networks
+An explainable multi-modal Transformer framework for urban noise-source attribution, combining Audio Spectrogram Transformer (AST) features with spatiotemporal metadata. Evaluated on SONYC-UST, the model improves noise classification by integrating acoustic and contextual information while providing interpretable insights into its decisions.
